@@ -12,7 +12,6 @@ https://free-proxy-list.net/en/
 
 ****If you are using paid proxy in that case response code can be in more easy format:
 
-<<<
 
 import requests
 
@@ -26,6 +25,5 @@ proxies={
 r=requests.get(url,proxies=proxies)
 print(r.json())
 
->>>
 
 --!End of File!--
