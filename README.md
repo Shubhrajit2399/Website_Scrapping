@@ -10,6 +10,7 @@ https://books.toscrape.com/index.html
 https://free-proxy-list.net/en/
 
 **In real-world scrapping cases we use paid proxies. Oxylab is a good coice for that- https://oxylabs.io/
+
 ***For checking responses you can use random json address- https://www.ipify.org/
 
 ****If you are using paid proxy in that case response code can be in more easy format:
