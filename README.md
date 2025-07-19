@@ -1,5 +1,5 @@
 # Website_Scrapping
-This project is regarding a web-scrapping using random non traceable IPs and filter, format and store the website into csv file.
+This project is regarding a web-scrapping using random non traceable IPs and filter, format and store the website data into csv file.
 
 <img width="1438" height="875" alt="Screenshot 2025-07-19 at 11 55 25 AM" src="https://github.com/user-attachments/assets/da792b6e-1600-4210-a003-6cf46675b84a" />
 
