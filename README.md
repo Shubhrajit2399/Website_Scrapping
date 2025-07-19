@@ -19,11 +19,13 @@ import requests
 url="https://api64.ipify.org?format=json"
 
 proxies={
-        "http" : "<<Proxy from Oxylab>>",
-        "https" : "<<Proxy from Oxylab>>"
+        "http" : "Proxy from Oxylab",
+        "https" : "Proxy from Oxylab"
     }
 
 r=requests.get(url,proxies=proxies)
 print(r.json())
 
 >>>
+
+--!End of File!--
