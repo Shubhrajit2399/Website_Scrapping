@@ -26,6 +26,7 @@ proxies={
     }
 
 r=requests.get(url,proxies=proxies)
+
 print(r.json())
 
 
