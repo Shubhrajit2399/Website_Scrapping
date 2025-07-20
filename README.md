@@ -30,4 +30,8 @@ r=requests.get(url,proxies=proxies)
 print(r.json())
 
 
+Later we have done an analysis of the website data and plotted it in graph:
+<img width="1005" height="930" alt="download" src="https://github.com/user-attachments/assets/78487128-5829-4bfe-a300-7ef5dd46ec14" />
+
+
 --!End of File!--
